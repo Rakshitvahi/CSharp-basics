@@ -1,0 +1,15 @@
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/bin/Debug/net9.0/CSharp-basics
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/bin/Debug/net9.0/CSharp-basics.deps.json
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/bin/Debug/net9.0/CSharp-basics.runtimeconfig.json
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/bin/Debug/net9.0/CSharp-basics.dll
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/bin/Debug/net9.0/CSharp-basics.pdb
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.AssemblyInfoInputs.cache
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.AssemblyInfo.cs
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.csproj.CoreCompileInputs.cache
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.sourcelink.json
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.dll
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/refint/CSharp-basics.dll
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.pdb
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/CSharp-basics.genruntimeconfig.cache
+/Users/rakshitvahi/Documents/GitHub/CSharp-basics/obj/Debug/net9.0/ref/CSharp-basics.dll
